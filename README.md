@@ -1,6 +1,16 @@
 # SIKKopmaUnila
 SIK Kopma Unila (Sistem Informasi Keanggotaan Kopma Unila) adalah sebuah sistem informasi yang dibuat untuk mempermudah proses pelayanan keanggotaan Kopma Unila
 
+# Akun
+{Untuk Login silahkan gunakan
+Username : admin
+Password : admin123
+
+atau
+
+Username : anggota
+Password : anggota123}
+
 Anggota Kelompok :
 <ol>
   <li>Ervan Chodry 2017051001</li>
